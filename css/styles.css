@@ -741,7 +741,7 @@ header .container .navigation a:hover p {
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  width: 353px;
+  width: 435px;
   border-radius: 40px;
   background-color: white;
   margin: 15px;
@@ -749,7 +749,7 @@ header .container .navigation a:hover p {
 }
 .about .chapters ul li .content {
   width: 100%;
-  height: 185px;
+  height: 240px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -806,7 +806,7 @@ header .container .navigation a:hover p {
   font-size: 15px;
   line-height: 179%;
   color: #151E62;
-  width: 239px;
+  width: 395px;
 }
 .about .chapters ul li .description span {
   font-weight: 600;
@@ -1417,7 +1417,6 @@ footer .bottom-links-container .bottom-links .rights a {
   }
   .about .chapters ul li {
     width: 478px;
-    height: 464px;
   }
   .about .chapters ul li .content {
     height: 250px;
@@ -1430,7 +1429,7 @@ footer .bottom-links-container .bottom-links .rights a {
     margin-bottom: 0;
   }
   .about .chapters ul li .description {
-    width: 412px;
+    width: 435px;
   }
 
   .partners .partners-container .partners-list li {
@@ -1529,7 +1528,7 @@ footer .bottom-links-container .bottom-links .rights a {
     width: 759px;
   }
   .about .chapters ul li .description {
-    width: 317px;
+    width: 440px;
   }
 
   .partners .partners-container .partners-list li {
@@ -1676,7 +1675,7 @@ footer .bottom-links-container .bottom-links .rights a {
     height: 185px;
   }
   .about .chapters ul li .description {
-    width: 225px;
+    width: 280px;
   }
 
   .partners .partners-container .partners-list li {
@@ -2006,8 +2005,8 @@ footer .bottom-links-container .bottom-links .rights a {
     font-size: 35px;
   }
   .about .chapters ul li .description {
-    width: 460px;
-    font-size: 24px;
+    width: 630px;
+    font-size: 30px;
   }
   .about a {
     width: 690px;
@@ -2302,8 +2301,7 @@ footer .bottom-links-container .bottom-links .rights a {
     font-size: 40px;
   }
   .about .chapters ul li .description {
-    width: 550px;
-    font-size: 30px;
+    font-size: 35px;
   }
   .about a {
     width: 600px;
